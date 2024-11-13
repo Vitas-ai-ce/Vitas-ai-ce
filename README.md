@@ -1,8 +1,7 @@
 ## Hi there 👋
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+'Vitas-ai-ce's+Github+Profile..)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Vitas-ai-ce+Github+Profile..)](https://git.io/typing-svg)
 <p align="center">
-
 <img align="center" alt="GIF" src="https://github.com/Vitas-ai-ce/Vitas-ai-ce/blob/main/81b52936308febd66a7b72bec20dcbb39f4f6078d836abe2fb4efc1743f76d41.gif" alt="The Unlimited" width="1000">
 
 
