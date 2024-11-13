@@ -6,6 +6,6 @@
 
 
 
-https://img.shields.io/badge/py-python-orange?style=plastic&logo=python
+<img alt="Static Badge" src="https://img.shields.io/badge/py-python-orange?style=plastic&logo=python">
 
                                                                                                             
